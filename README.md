@@ -1,7 +1,7 @@
 # 🗺️ SIG de Movilidad Urbana en la Comunidad de Madrid
 
 **Trabajo Final de Máster — Master GIS Online**  
-**Autor:** Andrés Paredes Fernández · [andres.paredes@esri.es](mailto:andres.paredes@esri.es)  
+**Autor:** Andrés Paredes Fernández · [andrespf03@gmail.com](mailto:andrespf03@gmail.com)  
 **Colaboración:** Esri España
 
 ---
@@ -151,4 +151,4 @@ Todos los datos son de acceso abierto y libre reproducción, garantizando la rep
 
 **Andrés Paredes Fernández**  
 Master GIS Online  
-✉️ [andres.paredes@esri.es](mailto:andres.paredes@esri.es)
+✉️ [andrespf03@gmail.com](mailto:andrespf03@gmail.com)
